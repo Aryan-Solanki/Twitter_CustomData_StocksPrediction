@@ -1,5 +1,5 @@
-api key - V0xMJT3kkpPKnddCEddQSgkUc
-api secrect key - Z31vtawtl7oVPqf2xBrG0AsZmzcUv84VyWZxvA0Odzu6RyS6BE
-bearer token - AAAAAAAAAAAAAAAAAAAAAPteiAEAAAAA4O%2BIiXvp0Aazhcek%2F%2Fy2FbZmjM0%3DGkuWh5bELSPptKEvekfG4g8IPiLHSSRxURLLK2OGQmBkw9g15z
-assess token - 1580176591669235712-lMUAp7Wv2B9CS59ct9ckOtNCqojbLj
-assess token secret - K4bKr6Q77NI4ChwIAXyGi2bKctlB0V04kymg0pqNh4j4j
+ api key - V0xMJT3kkpPKnddCEddQSgkUc
+ api secrect key - Z31vtawtl7oVPqf2xBrG0AsZmzcUv84VyWZxvA0Odzu6RyS6BE
+ bearer token - AAAAAAAAAAAAAAAAAAAAAPteiAEAAAAA4O%2BIiXvp0Aazhcek%2F%2Fy2FbZmjM0%3DGkuWh5bELSPptKEvekfG4g8IPiLHSSRxURLLK2OGQmBkw9g15z
+ assess token - 1580176591669235712-lMUAp7Wv2B9CS59ct9ckOtNCqojbLj
+ assess token secret - K4bKr6Q77NI4ChwIAXyGi2bKctlB0V04kymg0pqNh4j4j
